@@ -20,7 +20,6 @@
   
   <!-- external -->
   <!-- project path="external/faceunlock" name="external_faceunlock" remote="clownui-gitlab" /-->
-  <project path="external/cronet" name="external_cronet" remote="clownui-gitlab" />
   <project path="external/gptfdisk" name="external_gptfdisk" remote="clownui" />
   <project path="external/mksh" name="external_mksh" remote="clownui" />
   <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="clownui" />
