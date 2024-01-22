@@ -32,6 +32,7 @@
   <project path="external/unrar" name="android_external_unrar" remote="lineage" />
   <project path="external/zstd" name="android_external_zstd" remote="lineage" />
   <project path="kernel/configs" name="android_kernel_configs" remote="lineage" />
+  <project path="system/bpf" name="android_system_bpf" remote="lineage" />
 
   <!-- packages repos -->
   <project path="packages/resources/devicesettings" name="android_packages_resources_devicesettings" remote="lineage" />
